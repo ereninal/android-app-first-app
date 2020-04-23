@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TestApp</string>
+    <string name="app_name">İlk Lab</string>
+    <string name="message">Welcome Customer</string>
 </resources>
